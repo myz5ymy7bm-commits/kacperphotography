@@ -1,0 +1,10 @@
+# Original-Fotos (~304 MB) - nur Quellmaterial, gehoeren nicht auf die Website
+DSCF*.jpeg
+DSCF*.JPG
+
+# Nicht Teil der Website
+letter-hop.html
+
+# Lokales
+.claude/
+.DS_Store
